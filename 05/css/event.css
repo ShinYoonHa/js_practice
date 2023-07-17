@@ -2,7 +2,7 @@
 			position:relative;
 			width:500px;
 			height:auto;
-			padding:15px 20px;
+			padding:10px 10px;
 			margin:auto;
 		}
 		button {
@@ -17,7 +17,7 @@
 			bottom:30px;
 		}
 		.detail {
-			width:400px;
+			width:600px;
 			text-align:left;			
 			line-height:1.8;
 			display:none;
